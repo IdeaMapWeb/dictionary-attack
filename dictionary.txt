@@ -1,0 +1,8 @@
+leo
+man
+men
+lady
+gentleman
+hello
+world
+python
